@@ -9,3 +9,5 @@ git rm --cached "NOME DO ARQUIVO" (Remove os arquivos da preparação)
 git rm -f "NOME DO ARQUIVO" (Remove permanentemente o arquivo do projeto)
 
 git restore "NOME DO ARQUIVO" (Restaura o arquivo para os padrões qu estavam até ser add)
+
+git commit -m "MENSAGEM" (Commita)
