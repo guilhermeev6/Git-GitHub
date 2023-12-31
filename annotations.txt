@@ -34,3 +34,5 @@ git remote (mostra todos os repositórios remotos criados)
 git push -u "NOME DO REPOSITÓRIO REMOTO" "NOME DA BRANCH" (Empurra todos os arquivos para o repositório remoto)
 
 git clone "LINK DO REPOSITÓRIO REMOTO" (Clona qualquer repositório público)
+
+git pull (tenho minhas dúvidas ainda)
