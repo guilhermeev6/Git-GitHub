@@ -1,3 +1,6 @@
+git config --global user.name "NOME DE USUÁRIO NO GITHUB"
+git config --global user.email "EMAIL"
+
 git init (Fazer toda vez que criar um projeto)
 
 git status(mostra quais arquivos estão prontos ou não para commit)
