@@ -25,6 +25,10 @@ git branch -M "Nomepara ser alterado" (Troca o nome da branch)
 
 git checkout "NOME DA BRANCH" (Troca de branch)
 
+git branch -D "NOME DA BRANCH" (Excluir uma branch local)
+
+git push "NOME DO REPOSITÓRIO REMOTO" "NOME DA BRANCH" --delete
+
 git merge "NOME DA BRANCH" (Passa os arquivos de uma branch para outra. Ocomando tem que ser executado na branch que receberá os dados)
 
 git remote add origin "LINK DO REPOSITÓRIO NO GITHUB" (O "origin" é o nome padrão do repositório remoto que vai referenciar o repositório do link. Pode ser alterado como prefirir) 
