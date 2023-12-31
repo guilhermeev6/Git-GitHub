@@ -25,7 +25,7 @@ git branch -M "Nomepara ser alterado" (Troca o nome da branch)
 
 git checkout "NOME DA BRANCH" (Troca de branch)
 
-git merge "NOME DA BRACH" (Passa os arquivos de uma branch para outra. Ocomando tem que ser executado na branch que receberá os dados)
+git merge "NOME DA BRANCH" (Passa os arquivos de uma branch para outra. Ocomando tem que ser executado na branch que receberá os dados)
 
 git remote add origin "LINK DO REPOSITÓRIO NO GITHUB" (O "origin" é o nome padrão do repositório remoto que vai referenciar o repositório do link. Pode ser alterado como prefirir) 
 
@@ -35,4 +35,6 @@ git push -u "NOME DO REPOSITÓRIO REMOTO" "NOME DA BRANCH" (Empurra todos os arq
 
 git clone "LINK DO REPOSITÓRIO REMOTO" (Clona qualquer repositório público)
 
-git pull (tenho minhas dúvidas ainda)
+git pull (atualiza o documento)
+
+git pull "NOMEDO REPOSITÓRIO REMOTO" "NOME DA BRANCH" (atualiza apenas uma branch)
