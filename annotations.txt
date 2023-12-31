@@ -31,4 +31,3 @@ git remote add origin "LINK DO REPOSITÓRIO NO GITHUB" (O "origin" é o nome pad
 
 git remote (mostra todos os repositórios remotos criados)
 
-git push -u "NOME DO REPOSITÓRIO REMOTO" "NOME DA BRANCH" (Empurra todos os arquivos para o repositório remoto)
