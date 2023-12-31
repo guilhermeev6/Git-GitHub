@@ -11,3 +11,5 @@ git rm -f "NOME DO ARQUIVO" (Remove permanentemente o arquivo do projeto)
 git restore "NOME DO ARQUIVO" (Restaura o arquivo para os padrões qu estavam até ser add)
 
 git commit -m "MENSAGEM" (Commita)
+
+git log (Mostra todas as informações dos commits feitos)
