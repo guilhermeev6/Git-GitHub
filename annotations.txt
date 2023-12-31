@@ -20,3 +20,4 @@ gti branch "NOME DA BRANCH" (Cria uma nova branch)
 
 git checkout "NOME DA BRANCH" (Troca de branch)
 
+git merge "NOME DA BRACH" (Passa os arquivos de uma branch para outra. Ocomando tem que ser executado na branch que receberá os dados)
