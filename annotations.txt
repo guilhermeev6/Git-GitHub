@@ -1,1 +1,36 @@
-eu sou bobo
+git config --global user.name "NOME DE USUÁRIO NO GITHUB"
+git config --global user.email "EMAIL"
+
+git init (Inicia o repositório LOCAL. Fazer toda vez que criar um projeto.)
+
+git status(mostra quais arquivos estão prontos ou não para commit)
+
+git add "NOME DO ARQUIVO OU COLOCAR '.' PARA ADICIONAR TODOS" (Prepara os arquivos para commit)
+
+git rm --cached "NOME DO ARQUIVO" (Remove os arquivos da preparação)
+
+git rm -f "NOME DO ARQUIVO" (Remove permanentemente o arquivo do projeto)
+
+git restore "NOME DO ARQUIVO" (Restaura o arquivo para os padrões qu estavam até ser add)
+
+git commit -m "MENSAGEM" (Commita)
+
+git log (Mostra todas as informações dos commits feitos) (Caso apareça um END travado, aperte q)
+
+git branch (Mostra todas as branches do projeto)
+
+gti branch "NOME DA BRANCH" (Cria uma nova branch)
+
+git branch -M "Nomepara ser alterado" (Troca o nome da branch)
+
+git checkout "NOME DA BRANCH" (Troca de branch)
+
+git merge "NOME DA BRACH" (Passa os arquivos de uma branch para outra. Ocomando tem que ser executado na branch que receberá os dados)
+
+git remote add origin "LINK DO REPOSITÓRIO NO GITHUB" (O "origin" é o nome padrão do repositório remoto que vai referenciar o repositório do link. Pode ser alterado como prefirir) 
+
+git remote (mostra todos os repositórios remotos criados)
+
+git push -u "NOME DO REPOSITÓRIO REMOTO" "NOME DA BRANCH" (Empurra todos os arquivos para o repositório remoto)
+
+git clone "LINK DO REPOSITÓRIO REMOTO" (Clona qualquer repositório público)
