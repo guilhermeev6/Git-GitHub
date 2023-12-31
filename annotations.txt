@@ -1,0 +1,11 @@
+git init (Fazer toda vez que criar um projeto)
+
+git status(mostra quais arquivos estão prontos ou não para commit)
+
+git add "NOME DO ARQUIVO OU COLOCAR '.' PARA ADICIONAR TODOS" (Prepara os arquivos para commit)
+
+git rm --cached "NOME DO ARQUIVO" (Remove os arquivos da preparação)
+
+git rm -f "NOME DO ARQUIVO" (Remove permanentemente o arquivo do projeto)
+
+git restore "NOME DO ARQUIVO" (Restaura o arquivo para os padrões qu estavam até ser add)
