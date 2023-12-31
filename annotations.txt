@@ -13,3 +13,10 @@ git restore "NOME DO ARQUIVO" (Restaura o arquivo para os padrões qu estavam at
 git commit -m "MENSAGEM" (Commita)
 
 git log (Mostra todas as informações dos commits feitos) (Caso apareça um END travado, aperte q)
+
+git branch (Mostra todas as branches do projeto)
+
+gti branch "NOME DA BRANCH" (Cria uma nova branch)
+
+git checkout "NOME DA BRANCH" (Troca de branch)
+
